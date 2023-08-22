@@ -1,0 +1,16 @@
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\helloworld.exe
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\helloworld.deps.json
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.json
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\helloworld.runtimeconfig.dev.json
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\helloworld.dll
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\ref\helloworld.dll
+C:\Users\Paloma\Desktop\csharp\helloworld\bin\Debug\net5.0\helloworld.pdb
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.csproj.AssemblyReference.cache
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfoInputs.cache
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.AssemblyInfo.cs
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.csproj.CoreCompileInputs.cache
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.dll
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\ref\helloworld.dll
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.pdb
+C:\Users\Paloma\Desktop\csharp\helloworld\obj\Debug\net5.0\helloworld.genruntimeconfig.cache
