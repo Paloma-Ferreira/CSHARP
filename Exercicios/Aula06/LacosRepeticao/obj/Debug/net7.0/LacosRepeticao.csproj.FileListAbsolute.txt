@@ -1,0 +1,14 @@
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.AssemblyInfoInputs.cache
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.AssemblyInfo.cs
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\bin\Debug\net7.0\LacosRepeticao.exe
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\bin\Debug\net7.0\LacosRepeticao.deps.json
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\bin\Debug\net7.0\LacosRepeticao.runtimeconfig.json
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\bin\Debug\net7.0\LacosRepeticao.dll
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\bin\Debug\net7.0\LacosRepeticao.pdb
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.dll
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\refint\LacosRepeticao.dll
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.pdb
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\LacosRepeticao.genruntimeconfig.cache
+C:\Users\Paloma\Desktop\csharp\Exercicios\Aula06\LacosRepeticao\obj\Debug\net7.0\ref\LacosRepeticao.dll
